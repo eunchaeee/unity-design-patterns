@@ -73,3 +73,7 @@ crashlytics-build.properties
 
 /WebGL Builds
 *.zip
+
+
+*.idea/
+.DS_Store
