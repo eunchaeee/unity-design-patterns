@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a187a5e588ec440448f0238be343e9c1, type: 3}
+  m_Name: HPImage
+  m_EditorClassIdentifier: 
+  hp0: {fileID: 1937820718, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
+  hp1: {fileID: -1591903862, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
+  hp2: {fileID: 1995842884, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
+  hp3: {fileID: 699539613, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
+  hp4: {fileID: 21299295, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
+  hp5: {fileID: 1920576155, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
+  hp6: {fileID: 1113324453, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
+  hp7: {fileID: -1232766491, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
+  hpImages:
+  - {fileID: 1937820718, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
+  - {fileID: -1591903862, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
+  - {fileID: 1995842884, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
+  - {fileID: 699539613, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
+  - {fileID: 21299295, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
+  - {fileID: 1920576155, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
+  - {fileID: 1113324453, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
+  - {fileID: -1232766491, guid: efdbe9d92339f48cbad16a913ca04fe7, type: 3}
