@@ -4,4 +4,4 @@
 Unity에서 다양한 디자인 패턴을 직접 구현해보며 정리하는 실습 레포지토리입니다.
 
 
-[MVC – HP Control Demo](Assets/MVC/README.md)
+[1. MVC패턴 – HP Control Demo](Assets/MVC/README.md)
