@@ -6,9 +6,9 @@
 
 ---
 
-## 🎮 데모 화면 (Scene Overview)
+## 🎮 데모 화면 (Scene Overview)  
 
-![MVC Demo](./MVC.gif)
+![MVC Demo](./MVC.gif)  
 
 > Damage / Heal 버튼 입력으로
 > Controller가 Model을 변경하고,  
